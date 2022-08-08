@@ -1,4 +1,4 @@
-# CGPI-Calculator
+# CGPA-Calculator
 A simple program used to compute cgpi as well as corresponding percentage using OOP concepts
 ## OOP Concepts used:
 - Classes
